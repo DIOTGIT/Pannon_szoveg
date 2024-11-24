@@ -1,2 +1,20 @@
 python-dotenv #for .env
 shutils #for deltree
+ipykernel #for jupyter notebook
+nltk #for text processing
+
+spacy==3.7.5 #for text processing
+hu_core_news_lg@https://huggingface.co/huspacy/hu_core_news_lg/resolve/v3.7.0/hu_core_news_lg-any-py3-none-any.whl?download=true
+xx_ent_wiki_sm@https://github.com/explosion/spacy-models/releases/download/xx_ent_wiki_sm-3.7.0/xx_ent_wiki_sm-3.7.0-py3-none-any.whl?download=true
+
+transformers #for text processing
+Flax #for text processing
+SentencePiece #for text processing
+torch
+torchvision
+torchaudio
+
+openpyxl #for excel
+pandas #for data processing
+
+
